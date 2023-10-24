@@ -1,0 +1,2 @@
+# MyFinalExam
+这是基于opencv的期末大作业，作用是打开PC摄像头对人脸进行识别
