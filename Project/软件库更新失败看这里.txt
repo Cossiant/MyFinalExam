@@ -1,0 +1,6 @@
+华为https://repo.huaweicloud.com/repository/pypi/simple/
+清华https://pypi.tuna.tsinghua.edu.cn/simple/
+腾讯https://mirrors.cloud.tencent.com/pypi/simple/
+阿里http://mirrors.aliyun.com/pypi/simple/
+
+外观-》系统设置-》自动检测代理设置
